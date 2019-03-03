@@ -8,6 +8,8 @@
 - [Processing](https://processing.org)
 
 <p float="center">
-<img src="assets/initial.png" width="60%"/>
-<img src="assets/final.png" width="60%"/>
+###Initial Screen
+<img src="assets/initial.png" width="100%"/>
+###Final Screen
+<img src="assets/final.png" width="100%"/>
 </p>
