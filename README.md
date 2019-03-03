@@ -7,6 +7,7 @@
 
 - [Processing](https://processing.org)
 
-- ![Start Screen](https://ibb.co/HCcDMy2 "Start Screen")
-
-- ![End Screen](https://ibb.co/NWtXKv3 "End Screen")
+<p float="center">
+<img src="assets/initial.png" width="60%"/>
+<img src="assets/final.png" width="60%"/>
+</p>
